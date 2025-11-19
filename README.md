@@ -1,3 +1,4 @@
+![logo] (banner.png path)
 <h1 align="center">Hi 👋, I'm Ashwini Kalambe</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 <img align="right" alt="coing" width="400" src="https://cdn.dribbble.com/userupload/41784761/file/original-a61a9e3e4588d69413bf0c7e35853cfc.gif">
